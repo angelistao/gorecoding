@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include "Clube.hpp"
 
 using namespace std;
